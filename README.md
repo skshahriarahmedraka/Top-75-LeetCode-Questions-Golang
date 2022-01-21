@@ -1,10 +1,11 @@
-## New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time
+## Top 75 LeetCode Questions to For Interview
 
 ## Golang Implimentation
 
 ## Array
 
-- Two Sum - https://leetcode.com/problems/two-sum/
+1. Two Sum -[problem](https://leetcode.com/problems/two-sum/) | <a href="1.Array/1.Two Sum.go">Solution</a>
+2. Best Time to Buy and Sell Stock -[problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <a href="1.Array/2.Best Time to Buy and Sell Stock.go">Solution</a>
 - Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
 - Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
