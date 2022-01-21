@@ -6,15 +6,16 @@
 
 1. Two Sum -[problem](https://leetcode.com/problems/two-sum/) | <a href="1.Array/1.Two Sum.go">Solution</a>
 2. Best Time to Buy and Sell Stock -[problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <a href="1.Array/2.Best Time to Buy and Sell Stock.go">Solution</a>
-- Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-- Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
-- Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
-- Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
-- Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
-- Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
-- 3Sum - https://leetcode.com/problems/3sum/
-- Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+3. Contains Duplicate -[problem](https://leetcode.com/problems/contains-duplicate/) | <a href="1.Array/3.Contains Duplicate.go">Solution</a>
+<!-- - Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ -->
+<!-- - Contains Duplicate - https://leetcode.com/problems/contains-duplicate/ -->
+4. Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+5. Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
+6. Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
+7. Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+8. Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
+9. 3Sum - https://leetcode.com/problems/3sum/
+10. Container With Most Water - https://leetcode.com/problems/container-with-most-water/
 
 ---
 
