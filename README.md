@@ -9,12 +9,12 @@
 3. Contains Duplicate -[Problem](https://leetcode.com/problems/contains-duplicate/) | <a href="1.Array/3.Contains Duplicate.go">Solution</a>
 4. Product of Array Except Self -[Problem](https://leetcode.com/problems/product-of-array-except-self/) | <a href="1.Array/4. Product of Array Except Self.go">Solution</a>
 5. Maximum Subarray -[Problem](https://leetcode.com/problems/maximum-subarray/) | <a href="1.Array/5. Maximum Subarray.go">Solution</a>
-6. Maximum Product Subarray -[Problem](https://leetcode.com/problems/maximum-product-subarray/) | <a href="">Solution</a>
-7. Find Minimum in Rotated Sorted Array - [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <a href="">Solution</a>
-8. Search in Rotated Sorted Array  - [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/ ) | <a href="">Solution</a>
-9. 3Sum - [Problem](https://leetcode.com/problems/3sum/ ) | <a href="">Solution</a>
+6.  Maximum Product Subarray-[Problem](https://leetcode.com/problems/maximum-product-subarray/) | <a href="1.Array/6. Maximum Product Subarray.go">Solution</a>
+7. Find Minimum in Rotated Sorted Array - [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | <a href="1.Array/7. Find Minimum in Rotated Sorted Array.go">Solution</a>
+8. Search in Rotated Sorted Array  - [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/ ) | <a href="1.Array/8. Search in Rotated Sorted Array.go">Solution</a>
+9. 3Sum - [Problem](https://leetcode.com/problems/3sum/ ) | <a href="1.Array/9. 3Sum.go">Solution</a>
  
-10. Container With Most Water - [Problem](https://leetcode.com/problems/container-with-most-water/) | <a href="">Solution</a>
+10. Container With Most Water - [Problem](https://leetcode.com/problems/container-with-most-water/) | <a href="1.Array/10. Container With Most Water.go">Solution</a>
 
 
 ## Binary
