@@ -126,3 +126,31 @@
 74. Top K Frequent Elements -[Problem](https://leetcode.com/problems/top-k-frequent-elements/ ) | <a href="">Solution</a> 
 75. Find Median from Data Stream -[Problem](https://leetcode.com/problems/find-median-from-data-stream/) | <a href="">Solution</a> 
 
+## Extras
+- Median of Two Sorted Arrays -[Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | <a href="11.extras/4. Median of Two Sorted Arrays.go">Solution</a>
+- Trapping Rain Water.go -[Problem](https://leetcode.com/problems/trapping-rain-water/) | <a href="11.extras/42. Trapping Rain Water.go" >Solution</a>
+- Regular Expression Matching-[Problem](https://leetcode.com/problems/regular-expression-matching/) | <a href=" ">Solution</a>
+- Minimum Window Substring -[Problem](https://leetcode.com/problems/minimum-window-substring/) | <a href=" ">Solution</a>
+- Largest Rectangle in Histogram -[Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) | <a href=" ">Solution</a>
+- Sliding Window Maximum -[Problem](https://leetcode.com/problems/sliding-window-maximum/) | <a href=" ">Solution</a>
+- Jump Game II -[Problem](https://leetcode.com/problems/jump-game-ii/) | <a href=" ">Solution</a>
+- alien dictionary-[Problem](https://leetcode.com/problems/alien-dictionary/) | <a href=" ">Solution</a>
+- Find Median from Data Stream-[Problem](https://leetcode.com/problems/find-median-from-data-stream/) | <a href=" ">Solution</a>
+- Word Ladder -[Problem](https://leetcode.com/problems/word-ladder/) | <a href=" ">Solution</a>
+- Edit Distance-[Problem](https://leetcode.com/problems/edit-distance/) | <a href=" ">Solution</a>
+- First Missing Positive -[Problem](https://leetcode.com/problems/first-missing-positive/) | <a href=" ">Solution</a>
+- Burst Balloons -[Problem](https://leetcode.com/problems/burst-balloons/) | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
+- -[Problem]() | <a href=" ">Solution</a>
