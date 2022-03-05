@@ -105,7 +105,7 @@
 
 59. Maximum Depth of Binary Tree -[Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/ ) | <a href="">Solution</a> 
 60. Same Tree -[Problem]( https://leetcode.com/problems/same-tree/ ) | <a href="">Solution</a>
-61. Invert/Flip Binary Tree -[Problem](https://leetcode.com/problems/invert-binary-tree/ ) | <a href="">Solution</a> 
+61. Invert Flip Binary  Tree -[Problem](https://leetcode.com/problems/invert-binary-tree/ ) | <a href="">Solution</a> 
 62. Binary Tree Maximum Path Sum -[Problem]( https://leetcode.com/problems/binary-tree-maximum-path-sum/ ) | <a href="">Solution</a>
 63. Binary Tree Level Order Traversal -[Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/ ) | <a href="">Solution</a> 
 64. Serialize and Deserialize Binary Tree -[Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ ) | <a href="">Solution</a> 

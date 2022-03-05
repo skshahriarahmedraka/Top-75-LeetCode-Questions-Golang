@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	// "sort"
 	"strconv"
 	"strings"
 )
@@ -30,23 +31,38 @@ func main() {
 	fmt.Println("your string : ", li,"\n Enter your terget value : ")
 	var t int 
 	fmt.Scanln(&t)
-	twoSum(li,t)
+	fmt.Println("ans: ",twoSum(li,t))
 }
 
+// func twoSum(nums []int, target int) []int {
+// 	sort.Ints(nums)
+// 	for i,n:= range nums {
+// 		if n <target{
+// 			x:=sort.SearchInts(nums,target-n)
+// 			fmt.Println("now :",i,x,n)
+// 			if x!= len(nums)-1 || (x==len(nums)-1 && nums[x]==target-n) {
+// 				return []int{i,x}
+// 			}
+// 		} 
+// 	}
+// 	return nums
+// }
 func twoSum(nums []int, target int) []int {
-	m :=make(map[int]bool) 
-	m2 :=make(map[int]int) 
-	for i,j := range nums {
-		m[j]=true 
-		m2[j]=i
+	m:= make(map[int]int ,5)
+
+	for i,j:= range nums {
+		m[j]=i
 	}
-	var li []int
-	for i,j := range nums{		
-		if m[target-j] && len(li)<2 && (target-j)!=j {
-			li=append(li,i)
-			li=append(li,m2[target-j])
+	for i,j := range nums {
+		if j<target {
+			x:=target -j 
+			if b,err := m[x];err{
+				return []int{i,b}
+			}else{
+				continue 
+			}
 		}
 	}
-	fmt.Println(li)
+
 	return nums
 }

@@ -4,8 +4,12 @@ package main
 
 import (
 	// "bufio"
+	"bufio"
 	"fmt"
 	"log"
+	"os"
+	"strconv"
+	"strings"
 	// "os"
 	// "strconv"
 )
@@ -17,23 +21,21 @@ func ERROR(e error){
 }
 
 func main(){
+	var n int 
+
+	b,_,err:= bufio.NewReader(os.Stdin).ReadLine()
+
+	ERROR(err)
+
+	s:= string(b)
+	ss:=strings.Split(s," ")
 	var li []int 
 
-	// b,_,err := bufio.NewReader(os.Stdin).ReadLine()
-	// ERROR(err)
-
-	// s:= string(b)
-	// ss,err := strconv.Atoi(s)
-	var a int 
-	for i:=0 ;i<3;i++{
-		fmt.Scan(&a)
-		li= append(li,a)
+	for _,i:= range ss {
+		b,err:=strconv.Atoi(i)
+		ERROR(err)
+		li=append(li,b)
 	}
-	fmt.Println(li)
-	fmt.Printf("%T",li)
-	 for _,i:= range li {
-		 
-	 }
 	
 
 
